@@ -3,6 +3,7 @@
 
 <p align="center">
   💻 <strong>Web Designer & Developer</strong> | 🎨 UI/UX Enthusiast <br>
+   📚 3rd Year Bachelor of Science in Computer Science at <strong>Eulogio “Amang” Rodriguez Institute of Science and Technology (EARIST – Manila)</strong> <br>
   Crafting responsive and user-centered digital experiences.
 </p>
 
