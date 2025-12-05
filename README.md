@@ -45,6 +45,7 @@
 ### 🌟 Featured Projects
 | Project | Description | Tech Used |
 |----------|--------------|------------|
+| [**COMSA-Tracker**](https://github.com/jmprz/COMSA-Tracker) | Event and Task management System for Computer Science Student Association (COMSA) - EARIST Manila | Bootstrap, PHP, MySQL |
 | [**COMSA-NOW**](https://comsa-now.vercel.app) | Social media platform for Computer Science students at EARIST. | Bootstrap, PHP, MySQL |
 | [**FinTrack**](https://github.com/jmprz/fintrack_php) | Accounting Management System for eCLICK Business Solutions. | PHP, TailwindCSS, MySQL |
 | [**SeekNFind**](https://github.com/jmprz/seeknfind) | Lost & Found Information Management System. | PHP, MySQL, Bootstrap |
