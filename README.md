@@ -9,13 +9,6 @@
 
 ---
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00B8DB&center=true&vCenter=true&lines=Web+Designer+%26+Developer;Frontend+(React+%2B+Tailwind);Backend+(PHP+%2B+MySQL);Always+Learning+New+Things!"/>
-</p>
-
----
-
 ### 🧰 Tech Stack
 <div align="center">
 
@@ -49,6 +42,15 @@
 
 </div>
 
+---
+### 💼 Experience
+
+### **Web Developer (Student Assistant)** | Eulogio “Amang” Rodriguez Institute of Science and Technology
+*September 2024 – Present* > **Tech Stack:** `Laravel`, `PHP`, `MySQL`, `Bootstrap`, `Git`
+
+* **Developed & Designed:** Created responsive web solutions for various school's offices, ensuring high performance and modern UI/UX standards.
+* **Full-Site Maintenance:** Responsible for the uptime and content accuracy of the official school website, managing critical announcements and multimedia deployments.
+* **Optimization:** Enhanced site accessibility and mobile responsiveness, improving the user experience for the student, faculty and staff.
 ---
 
 ### 🌟 Featured Projects
