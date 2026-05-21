@@ -58,7 +58,7 @@
 
 ### **NDC’s Breaking Enigma 2025 Hackathon – Top 15 Finalist** 
 *December 2025*
-> **Tech Stack:** `Next.js`, `TailwindCSS`, `TailwindCSS`
+> **Tech Stack:** `Next.js`, `TypeScript`, `TailwindCSS`
 * Served as the **Frontend Developer** for **GigDaddy**, building a responsive, intuitive interface that streamlined the user journey for freelance service bookings.
 
 ---
