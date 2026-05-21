@@ -45,7 +45,7 @@
 ---
 ### 💼 Experience
 
-### **Web Developer (Student Assistant)** | Eulogio “Amang” Rodriguez Institute of Science and Technology
+### **Full-Stack Web Developer** | Eulogio “Amang” Rodriguez Institute of Science and Technology
 *September 2024 – Present* > **Tech Stack:** `Laravel`, `PHP`, `MySQL`, `Bootstrap`, `Git`
 
 * **Developed & Designed:** Created responsive web solutions for various school's offices, ensuring high performance and modern UI/UX standards.
