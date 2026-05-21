@@ -18,10 +18,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-00B8DB?logo=react&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
 #### ⚙️ Backend & Database
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
@@ -29,18 +30,26 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FC68D?logo=supabase&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 
 #### 🛠️ Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
+
+#### 🤖 AI Assistants & Productivity
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?logo=googlegemini&logoColor=white&style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=chatgpt&logoColor=white&style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97756?logo=claude&logoColor=white&style=for-the-badge)
 
 </div>
 
