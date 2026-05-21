@@ -1,10 +1,12 @@
-<!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00b8db;">John Matthew Perez</span></h1>
 
 <p align="center">
-  💻 <strong>Web Designer & Developer</strong> | 🎨 UI/UX Enthusiast <br>
+  💻 <strong>Full-Stack Web & Mobile Developer</strong> | 🎨 UI/UX Designer <br>
    📚 3rd Year Bachelor of Science in Computer Science at <strong>Eulogio “Amang” Rodriguez Institute of Science and Technology (EARIST – Manila)</strong> <br>
-  Crafting responsive and user-centered digital experiences.
+</p>
+
+<p align="center">
+  <em>Full-stack developer with a passion for high-performance applications. Skilled in leveraging modern frameworks to bridge backend logic and user-centric design, ensuring clean, maintainable, and innovative code.</em>
 </p>
 
 ---
@@ -27,7 +29,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&white&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FC68D?logo=supabase&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
@@ -45,24 +47,31 @@
 ---
 ### 💼 Experience
 
-### **Full-Stack Web Developer** | Eulogio “Amang” Rodriguez Institute of Science and Technology
-*September 2024 – Present* > **Tech Stack:** `Laravel`, `PHP`, `MySQL`, `Bootstrap`, `Git`
+### **Full-Stack Web Developer** | Office of Web Development Services, EARIST - Manila
+*September 2024 – Present* 
+> **Tech Stack:** `Laravel`, `PHP`, `MySQL`, `Bootstrap`, `Git`, `WordPress` 
+* Maintain the official school website and develop responsive web solutions for various offices, ensuring high performance and accessibility for faculty, staff, and students. 
 
-* **Developed & Designed:** Created responsive web solutions for various school's offices, ensuring high performance and modern UI/UX standards.
-* **Full-Site Maintenance:** Responsible for the uptime and content accuracy of the official school website, managing critical announcements and multimedia deployments.
-* **Optimization:** Enhanced site accessibility and mobile responsiveness, improving the user experience for the student, faculty and staff.
+---
+
+### 🏆 Hackathon & Achievements
+
+### **NDC’s Breaking Enigma 2025 Hackathon – Top 15 Finalist** 
+*December 2025*
+> **Tech Stack:** `Next.js`, `TailwindCSS`, `TailwindCSS`
+* Served as the **Frontend Developer** for **GigDaddy**, building a responsive, intuitive interface that streamlined the user journey for freelance service bookings.
+
 ---
 
 ### 🌟 Featured Projects
 | Project | Description | Tech Used |
 |----------|--------------|------------|
-| [**Web Development Services**](https://github.com/jmprz/Web-Development-Services) | Management System for the Office of Web Development Services - EARIST Manila | Bootstrap, Laravel, MySQL |
-| [**PetSpector**](https://github.com/jmprz/PetSpector) | A cross-platform application that identifies pet breeds and analyze their health sensitivities and behavioral moods through images and video using Gemini 2.5 Flash API| Flutter, Firebase |
-| [**COMSA-Tracker**](https://github.com/jmprz/COMSA-Tracker) | Event and Task management System for Computer Science Student Association (COMSA) - EARIST Manila | Bootstrap, PHP, MySQL |
-| [**COMSA-NOW**](https://comsa-now.vercel.app) | Social media platform for Computer Science students at EARIST. | Bootstrap, PHP, MySQL |
+| [**Web Development Services**](https://github.com/jmprz/Web-Development-Services) | Centralized administrative management tool featuring real-time status tracking, urgent deadline alerts, and automated PDF generation to streamline institutional workflow. | Bootstrap, Laravel, MySQL |
+| [**PetSpector**](https://github.com/jmprz/PetSpector) | A mobile solution utilizing Gemini 2.5 Flash Multimodal AI to identify pet breeds and analyze health sensitivities and behavioral moods through real-time image and video processing. | Flutter, Firebase, Gemini API |
+| [**COMSA-Tracker**](https://github.com/jmprz/COMSA-Tracker) | Event and Task management System for Computer Science Student Association (COMSA) - EARIST - Manila. | Bootstrap, PHP, MySQL |
+| [**COMSA-NOW**](https://comsa-now.vercel.app) | Social media platform for Computer Science students at EARIST - Manila. | Bootstrap, PHP, MySQL |
 | [**FinTrack**](https://github.com/jmprz/fintrack_php) | Accounting Management System for eCLICK Business Solutions. | PHP, TailwindCSS, MySQL |
 | [**SeekNFind**](https://github.com/jmprz/seeknfind) | Lost & Found Information Management System. | PHP, MySQL, Bootstrap |
-| [**Noteist**](https://noteist.vercel.app) | Notes & To-Do List app with minimalist UI. | HTML, CSS, JS |
 
 ---
 
@@ -81,9 +90,11 @@
 ### 🌐 Connect With Me
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnmatthewprz@gmail.com)
+[![Mobile](https://img.shields.io/badge/Mobile-34A853?style=for-the-badge&logoColor=white)](tel:+639951239915)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00B8DB?style=for-the-badge&logo=react&logoColor=white)](https://jmprz.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnmatthewprz/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jmprz)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jmpstudio)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmprz)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jmjkprz)
 
@@ -92,4 +103,3 @@
 ---
 
 <h2 align="center">⭐ “Code with purpose. Achieve with passion.”  </h2>
-
